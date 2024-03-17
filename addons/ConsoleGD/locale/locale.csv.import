@@ -1,0 +1,17 @@
+[remap]
+
+importer="csv_translation"
+type="Translation"
+uid="uid://bc0aq780ctdci"
+
+[deps]
+
+files=["res://addons/ConsoleGD/locale/locale.ru.translation", "res://addons/ConsoleGD/locale/locale.en.translation"]
+
+source_file="res://addons/ConsoleGD/locale/locale.csv"
+dest_files=["res://addons/ConsoleGD/locale/locale.ru.translation", "res://addons/ConsoleGD/locale/locale.en.translation"]
+
+[params]
+
+compress=true
+delimiter=0
